@@ -9,6 +9,12 @@ The objective of this project is to:
 - Compare their performance based on accuracy and classification metrics.
 - Visualize a sample of handwritten digit images with their corresponding labels.
 
+## How to run
+Clone or download the repository.
+Install the required libraries using:
+pip install matplotlib scikit-learn
+Run the Python script to see the results and visualizations.
+
 ## Requirements
 
 - Python 3.x
@@ -89,8 +95,4 @@ for digit in range(num_images):
 plt.tight_layout()
 plt.show()
 
-hOW TO RUN
-Clone or download the repository.
-Install the required libraries using:
-pip install matplotlib scikit-learn
-Run the Python script to see the results and visualizations.
+
