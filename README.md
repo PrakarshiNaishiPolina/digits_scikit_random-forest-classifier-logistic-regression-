@@ -88,3 +88,9 @@ for digit in range(num_images):
 
 plt.tight_layout()
 plt.show()
+
+hOW TO RUN
+Clone or download the repository.
+Install the required libraries using:
+pip install matplotlib scikit-learn
+Run the Python script to see the results and visualizations.
